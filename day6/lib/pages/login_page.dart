@@ -84,7 +84,7 @@ class _LoginPageState extends State<LoginPage> {
                           } else if (value.length < 5) {
                             return "password should be greater than 5";
                           }
-                          null;
+                         
                         },
                       ),
                       SizedBox(
