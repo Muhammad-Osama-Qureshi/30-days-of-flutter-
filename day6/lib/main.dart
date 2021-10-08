@@ -1,4 +1,4 @@
-import 'package:day6/widgets/themes.dart';
+import 'package:day6/widgets/themes.dart'; //import
 import 'package:flutter/material.dart';
 import 'package:day6/pages/login_page.dart';
 import 'package:day6/utils/routes.dart';
