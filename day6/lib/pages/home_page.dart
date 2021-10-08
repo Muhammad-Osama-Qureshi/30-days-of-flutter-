@@ -1,7 +1,9 @@
-import 'package:day6/widgets/Drawer.dart';
-import 'package:flutter/material.dart';
+//This Code Is for the Home Page of the Application
 
-class HomePage extends StatelessWidget {
+import 'package:day6/widgets/Drawer.dart'; //Importing Drawer Specification into the Application
+import 'package:flutter/material.dart'; // Importing Material application specification into the Application
+
+class HomePage extends StatelessWidget { //Code Goes Here
   final int days = 30;
   final String name = "Codepur";
   @override
